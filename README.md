@@ -20,3 +20,6 @@ Virtual artist runs off of Google's OpenCV and Mediapipe, and is implemented in 
 
 If given more time, our next steps would be to implement, using an AI trained through ML on datasets exclusively on ASL, an interface where an ASL interpreter could have their signs be translated live back into written language.
 
+# Note To Users
+
+The platform is slightly laggy/buggy when approaching the corners of the canvas. DEBUG NOTES: If the color turns white randomly (without instruction), move your fingers to one of the corners of the canvas to change the color back. Make sure you really go deep into the "Color" region to choose/select your pen color (slightly missing the "color region" might not change the color) Make sure your fingers/gestures that you are making with your fingers be explicit so the program can recognize. One finger up - Drawing/Writing, 4 Fingers Up (thumb at palm) - Erase. One hand in the frame at a time. Click 'q' to cancel out of the program. 
