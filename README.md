@@ -4,7 +4,7 @@ Created alongside team members (Alan Kusparmakov, Minh Duc Vo, Onur Yararbas) at
 
 # What is Virtual Artist? 
 
-Virtual artist is a platform that allows one to draw onto a small canvas. Users can write with their index finger, erase with their index and middle finger side by side, and change colors of drawing by moving their finger to the corner of the canvas. All of the recognition is recorded using the user's webcamera, drawing pictures composed from x,y coordinates gathered from hand-landmark analysis. This allows the user to draw on their computer screen by simply drawing in the air in front of them.
+The virtual artist is a platform that allows one to draw on a small canvas. Users can write with their index finger, erase with their index and middle finger side by side, and change the colors of the drawing by moving their fingers to the corner of the canvas. All of the recognition is recorded using the user's web camera, drawing pictures composed from x, and y coordinates gathered from hand-landmark analysis. This allows the user to draw on their computer screen by simply drawing in the air in front of them.
 
 
 # What could Virtual Artist be used for?
